@@ -1,0 +1,6 @@
+$git init
+$git status
+$git add  "Comandos_GitHub.txt"
+$git commit -m "Primeiro arquivo"
+$git --config --global  user.email "rinaldo.do@aluno.ifsc.edu.br"
+$git --config --global user.name "Rinaldo.do"
